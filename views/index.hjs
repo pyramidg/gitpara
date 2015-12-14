@@ -54,7 +54,7 @@
 <div>
 
 
-<script type="text/javascript">
+<script src="modernizr.js">
   if (Modernizr.touch) {
     var myScroller = new iScroll('scroller');
   }
