@@ -11,7 +11,7 @@
   </head>
   <body>
     <div id="title" class="slide header">
-    	<h1>Pure CSS Parallax Sweet</h1>
+    	<h1>Pure CSS Parallax Sweet!!</h1>
     </div>
 
     <div id="slide1" class="slide">
@@ -53,9 +53,14 @@
 
 <div>
 
-<script src="/da">
 
+<script type="text/javascript">
+  if (Modernizr.touch) {
+    var myScroller = new iScroll('scroller');
+  }
 </script>
+
+
 
 </div>
 
