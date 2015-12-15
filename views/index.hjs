@@ -10,6 +10,8 @@
 
   </head>
   <body>
+    <div class="touch">
+
     <div id="title" class="slide header">
     	<h1>Pure CSS Parallax iScroll</h1>
     </div>
@@ -52,6 +54,8 @@
     </div>
 
 
+
+  </div>
 
 
   </body>
