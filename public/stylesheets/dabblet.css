@@ -48,12 +48,6 @@ transform: translateZ(-1px) scale(2);  z-index:-1;}
   -webkit-overflow-scrolling: touch;
 }
 
-/* Snibit for ios scroll */
-.outer {
-  overflow: scroll;
-  -webkit-overflow-scrolling: touch;
-  /* More properties for a fixed height ... */
-}
 
 .inner {
   height: calc(100% + 1px);
