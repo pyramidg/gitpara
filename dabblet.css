@@ -21,7 +21,7 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .7);}
 .title {  margin-left: 0;  margin-right: auto;}
 .slide:nth-child(2n+1)
 .title {  margin-left: auto;  margin-right: 0;}
-.slide, .slide:before {  background: 100% / cover;  }
+.slide, .slide:before {  background: 100% 100% / cover;  }
 .header {  text-align: center;  font-size: 175%;  color: #fff;  text-shadow: 0 2px 2px #000;}
 
 #title {  background-image: url("images/photo2.jpeg");
